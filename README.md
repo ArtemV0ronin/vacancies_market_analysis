@@ -16,3 +16,4 @@ pandas, requests, json, os, numpy, matplotlib, seaborn, nltk
 - определены наиболее востребованные актуальные квалификационные требования по различным направлениям;
 - проведен анализ рынка IT профессий.
 
+#### Графический отчет по работе представлен в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/ОТЧЕТ.pdf">ОТЧЕТ</a>.
