@@ -7,7 +7,7 @@
 Определить какие специалисты наиболее востребованы на рынке IT-профессий и какие квалификационные требования к ним предъявляются. 
 
 ## Используемый стек
-pandas, requests, json, os, numpy, matplotlib, seaborn, nltk
+requests, os, nltk, json, pandas, numpy, matplotlib, seaborn
 
 ## Итоги
 В результате работы было выполнено:
