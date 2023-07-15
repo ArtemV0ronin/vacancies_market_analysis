@@ -10,10 +10,13 @@
 requests, os, nltk, json, pandas, numpy, matplotlib, seaborn
 
 ## Итоги
+
+#### Графический отчет по работе представлен в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/ОТЧЕТ.pdf">ОТЧЕТ</a>.
+
 В результате работы было выполнено:
 - парсинг данных с интернет-рекрутмента hh.ru по вакансиям в сфере IT;
 - предобработка данных;
 - определены наиболее востребованные актуальные квалификационные требования по каждому из IT направлений;
 - проведен анализ рынка IT профессий.
 
-#### Графический отчет по работе представлен в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/ОТЧЕТ.pdf">ОТЧЕТ</a>.
+
