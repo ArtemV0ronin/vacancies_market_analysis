@@ -41,7 +41,7 @@
   - гейм дизайнер
   - разработчик
   - 
-Ноутбук анализа по направлениям лежит в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/analysis.ipynb" target="_blank">parsing.ipynb</a>
+Ноутбук анализа по направлениям лежит в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/analysis.ipynb" target="_blank">analysis.ipynb</a>
 
 5. Проведен общий анализ вакансий с распределением по:
 - городам
