@@ -24,7 +24,7 @@
 
 Ход выполнения проекта:
 
-1. Сначала путем <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/parsing.ipynb">парсинга</a> были получены сырые данные с интернет-рекрутмента hh.ru по вакансиям в сфере IT:
+1. Сначала путем <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/parsing.ipynb" target="_blank">парсинга</a> были получены сырые данные с интернет-рекрутмента hh.ru по вакансиям в сфере IT:
 
 ![data_raw](https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/media/data_raw.jpg)
 
@@ -41,7 +41,7 @@
   - гейм дизайнер
   - разработчик
   - 
-Ноутбук анализа по направлениям лежит в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/analysis.ipynb">parsing.ipynb</a>
+Ноутбук анализа по направлениям лежит в файле <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/analysis.ipynb" target="_blank">parsing.ipynb</a>
 
 5. Проведен общий анализ вакансий с распределением по:
 - городам
@@ -50,7 +50,7 @@
 - стажу
 - зарплатам
 
-6. Построен итоговый <a href ="https://datalens.yandex/e1r1pnmzbv3a7?state=287df231396">дашбор</a> на платформе Yandex DataLens
+6. Построен итоговый <a href ="https://datalens.yandex/e1r1pnmzbv3a7?state=287df231396" target="_blank">дашбор</a> на платформе Yandex DataLens
 
 
 
