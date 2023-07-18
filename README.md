@@ -20,7 +20,7 @@
 
 ## Итоги
 
-В результате работы был проведен анализ рынка труда IT специалистов в России на примере интернет-рекрутмента hh.ru. Результаты анализа отражены в графическом <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/report.pdf">ОТЧЕТЕ</a> .
+В результате работы был проведен анализ рынка труда IT специалистов в России на примере интернет-рекрутмента hh.ru. Результаты анализа отражены в графическом <a href = "https://github.com/ArtemV0ronin/analysis_of_the_IT_vacancies_market/blob/main/report.pdf" target="_blank">ОТЧЕТЕ</a> .
 
 Ход выполнения проекта:
 
